@@ -19,5 +19,6 @@
     "nodemon": "^3.1.7"
   },
   "keywords": [],
-  "description": ""
+  "description": "> Works same as Ceil",
+  "devDependencies": {}
 }
