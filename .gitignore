@@ -1,0 +1,7 @@
+nodenode_modules
+.env
+config.json
+database/oldmongo.js
+deploy-commands.js
+cardCalculation.js
+cardCalculation.json

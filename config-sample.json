@@ -1,0 +1,9 @@
+{
+    "prefix": "!",
+    "developers": ["id"],
+    "admins":["id"],
+    "leads": ["id"],
+    "nuke": ["id"],
+    "serverAllowed": ["id","id"],
+    "mazokuID": "id"
+}

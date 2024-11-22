@@ -1,0 +1,23 @@
+{
+  "name": "mazonkers",
+  "version": "1.0.0",
+  "main": "shard.js",
+  "scripts": {
+    "start": "node shard.js",
+    "dev": "nodemon shard.js",
+    "deploy": "node deploy-commands.js",
+    "dev-db": "node database/dev-mongo.js",
+    "git-start": "cls && git pull && npm start"
+  },
+  "author": "MiMs",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5",
+    "mongodb": "^6.10.0",
+    "nodemon": "^3.1.7"
+  },
+  "keywords": [],
+  "description": ""
+}
